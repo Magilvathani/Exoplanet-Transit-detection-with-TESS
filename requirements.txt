@@ -1,0 +1,6 @@
+numpy
+matplotlib
+lightkurve
+astropy
+scipy
+pandas
